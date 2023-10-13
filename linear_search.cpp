@@ -7,7 +7,6 @@ int LinearSearch(int *array, int size, int key) {
             return i;
         }
     }
-
     return -1;
 }
 
